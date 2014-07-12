@@ -1,0 +1,21 @@
+{
+  "name": "gruntjs-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Ford <andrew@andrewford.co.nz>"
+  ],
+  "license": "MIT",
+  "homepage": "andrewford.co.nz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "bourbon": "~4.0.2",
+    "neat": "~1.6.0"
+  }
+}
