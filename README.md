@@ -3,4 +3,4 @@ gruntjs-boilerplate
 
 GruntJS Boilerplate
 
-This is my own GruntJS Boilerplate thats a WIP
+This is my own GruntJS Boilerplate that is a WIP
